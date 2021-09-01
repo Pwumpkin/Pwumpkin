@@ -33,9 +33,9 @@ Emalil: kevingbai@outlook.com
 
 
 > _" while(!dead){
->eat();
->//sleep();
->code();
->} "_ - A wise person on learning things.
+> eat();
+> //sleep();
+> code();
+> } "_ - A wise person on learning how to code.
 
  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pwumpkin.pwumpkin) [![GitHub followers](https://img.shields.io/github/followers/pwumpkin.svg?style=social&label=Follow)](https://github.com/pwumpkin?tab=followers)
