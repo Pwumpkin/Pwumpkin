@@ -32,4 +32,10 @@ Emalil: kevingbai@outlook.com
 <a href="mailto:kevingbai@outlook.com"><img alt="Kevin's email address" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="25" height="25"></a> <a href="https://www.linkedin.com/in/kevin-bai-a82371212/"><img alt="Kevin's linkedin profile" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width="25" height="25"></a>
 
 
+> _" while(!dead){
+eat();
+//sleep();
+code();
+} "_ - A wise person on learning things.
+
  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pwumpkin.pwumpkin) [![GitHub followers](https://img.shields.io/github/followers/pwumpkin.svg?style=social&label=Follow)](https://github.com/pwumpkin?tab=followers)
