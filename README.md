@@ -20,7 +20,9 @@
 **HTML/CSS** - Personal webpage front end using the React framework
 
 ### :pencil2:Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pwumpkin&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwumpkin)](https://github.com/anuraghazra/github-readme-stats)
+
+
  
 I’m looking to collaborate on
 
