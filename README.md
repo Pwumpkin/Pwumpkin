@@ -6,20 +6,22 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwumpkin)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pwumpkin)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 
 ## A little about me
-I am currently completing a Software Development diploma(2nd year) at SAIT. I really love learning about every aspect of software development(the business, design, and technical aspects). I look forward to become a Full-Stack developer after my education.
+I am currently completing a Software Development diploma(2nd year) at SAIT. I really love learning about every aspect of software development(the business 📈, design ✏️, and technical aspects 💻). I look forward to become a Full-Stack developer after my education.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pwumpkin)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects (current):
 
-* *FreeCodeCamp's front end libraries course*
+* ⚛️ *FreeCodeCamp's front end libraries course*
 
-* *Personal Portfolio Page*
+* 🏗️ *Personal Portfolio Page*
 
-* *Odin Project*
+* 🔨 *Odin Project*
 
 <br>
 
@@ -40,9 +42,9 @@ I am currently completing a Software Development diploma(2nd year) at SAIT. I re
 
 ### When I'm not writing code
 
- * I like to read about tech
- * I mountain bike
- * I'm always open to talking about tech. Feel free to shoot me a Email or Message!
+ * 📖 I like to read about tech
+ * 🚵 I mountain bike
+ * ☕ I'm always open to talking about tech. Feel free to shoot me a Email or Message!
 
 <br>
 
