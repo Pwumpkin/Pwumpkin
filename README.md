@@ -13,8 +13,6 @@
 ## A little about me
 I am currently completing a Software Development diploma(2nd year) at SAIT. I really love learning about every aspect of software development(the business 📈, design ✏️, and technical aspects 💻). I look forward to become a Full-Stack developer after my education.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pwumpkin)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Projects (current):
 
 * ⚛️ *FreeCodeCamp's front end libraries course*
@@ -26,6 +24,9 @@ I am currently completing a Software Development diploma(2nd year) at SAIT. I re
 <br>
 
 ## Tools and Technologies
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pwumpkin)](https://github.com/anuraghazra/github-readme-stats)
+
 ![image](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)![image](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
